@@ -98,7 +98,7 @@ cv:
 
     Skills:
       - name: Computational Materials Science
-        level: Experience
+        level: Experienced
         icon: fa-solid fa-hashtag
         keywords: "Solid-state Physics, Density Functional (Perturbation) Theory, Molecular Dynamics, Fortran, Python"
 
@@ -119,5 +119,5 @@ cv:
         summary: ""
         highlights:
           - Charge Transport
-        start_date: 2026-01-01
-        end_date: 2029-12-31
+        start_date: 2026
+        end_date: 2029
