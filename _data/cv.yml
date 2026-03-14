@@ -18,7 +18,7 @@ cv:
     street:
     city: Hangzhou
     region: Zhejiang
-    postalCode:
+    postalCode: ""
     countryCode: China
 
   sections:
@@ -48,8 +48,8 @@ cv:
         position: ZJU-100 Assistant Professor
         location: Hangzhou, China
         start_date: 2026
-        end_date:
-        summary:
+        end_date: ""
+        summary: ""
         highlights:
           - Electron and Phonon Transport
           - Defects
@@ -116,7 +116,7 @@ cv:
 
     Projects:
       - name: NSFC
-        summary:
+        summary: ""
         highlights:
           - Charge Transport
         start_date: 2026-01-01
