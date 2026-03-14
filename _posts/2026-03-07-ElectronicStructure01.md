@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  Electronic structure I. Hamiltonian and atomic orbitals
-date:   2026-03-07 15:00:00
+title: Electronic structure I. Hamiltonian and atomic orbitals
+date: 2026-03-07 15:00:00
 description: Hamiltonian and orbitals
 tags: Electronic
 categories: Fundamentals
 ---
 
 # Preface
-This is a series to introduce some basics of electronic structure theory and 
-calculation for students. I wrote this very casually and I hope it would be 
+
+This is a series to introduce some basics of electronic structure theory and
+calculation for students. I wrote this very casually and I hope it would be
 concise and understandable. Any mistake/typo is possible and feedbacks are welcomed.
 
 # Schrödinger equation
+
 Let's start from the original time-dependent Schrödinger equation in position-space representation,
 
 $$\hat{H} \Psi(\mathbf{r}, t) = i\hbar \frac{\partial}{\partial t}\Psi(\mathbf{r}, t).$$
@@ -32,7 +34,6 @@ the time-dependent equation leads to
 
 $$\tau_n(t) = c_n e^{-iE_n t/\hbar}$$
 
-
 This means that when a system is in an eigenstate, only the overall phase evolves over time and its probability amplitude (electron density)
 
 $$\rho(\mathbf{r},t)=|\Psi(\mathbf{r},t)|^2 = |\psi_n(\mathbf{r})|^2$$
@@ -40,6 +41,7 @@ $$\rho(\mathbf{r},t)=|\Psi(\mathbf{r},t)|^2 = |\psi_n(\mathbf{r})|^2$$
 is time-independent. And it will stay in that state without perturbation.
 
 # Hamiltonian and atomic orbitals
+
 For a single electron in a potential field $$V(\mathbf{r})$$, the Hamiltonian $$\hat{H}$$ is
 
 $$\hat{H} = \hat{T} + \hat{V}= -\frac{\hbar^2}{2m_e}\nabla^2 + V(\mathbf{r}).$$

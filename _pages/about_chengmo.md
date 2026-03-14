@@ -1,6 +1,6 @@
 Mo Cheng 程默
 PhD Student
 
-Project: *Thermal Transport in Wide-bandgap Semiconductors*
+Project: _Thermal Transport in Wide-bandgap Semiconductors_
 
 Supervisor: Prof. Xiaodong Pi

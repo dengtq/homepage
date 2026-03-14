@@ -17,31 +17,31 @@ profiles:
       <p>Dr. Tianqi Deng 邓天琪</p>
       <p>PI</p>
   - align: left
-    image: 
+    image:
     content: about_jiangxuanyu.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: 
+    image:
     content: about_jinyang.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: 
+    image:
     content: about_hulirong.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: 
+    image:
     content: about_yanyuchao.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: 
+    image:
     content: about_chengmo.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: 
+    image:
     content: about_dengpan.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: 
+    image:
     content: about_zhanghaoming.md
     image_circular: true # crops the image to make it circular
 ---
