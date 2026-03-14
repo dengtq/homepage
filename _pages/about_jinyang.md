@@ -1,4 +1,4 @@
 Dr. Jin Yang 杨进
 Postdoctoral Researcher
 
-Project: *Thermal and Charge Transport in Complex Semiconductors*
+Project: _Thermal and Charge Transport in Complex Semiconductors_
