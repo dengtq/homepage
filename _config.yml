@@ -154,16 +154,17 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: false
   news:
     defaults:
       layout: post
     output: true
   projects:
     output: true
-  teachings:
-    output: false
+
+# teachings:
+#   output: false
+# books:
+#   output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -267,8 +268,9 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+
+#  books:
+#    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["electron", "phonon", "defect", "transport"] # these tags will be displayed on the front page of your blog
 display_categories: [] # these categories will be displayed on the front page of your blog
