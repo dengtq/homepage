@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-15'
 papers:
   B3nJAn4AAAAJ:-f6ydRqryjwC:
-    citations: 15
+    citations: 18
     title: "Restricting Two\u2010Electron Oxygen Reduction via Secondary Coordinated Sulfur Enabling Ultralong\u2010Lifespan Zn\u2010Air Batteries"
     year: '2025'
   B3nJAn4AAAAJ:0EnyYjriUFMC:
@@ -18,7 +18,7 @@ papers:
     title: Neutral Antiaromatic Bis (1, 2-dithiolene)-Chelated Nickel Complexes Bearing Multiradical Characters
     year: '2022'
   B3nJAn4AAAAJ:4DMP91E08xMC:
-    citations: 6
+    citations: 7
     title: "Enhancing the mechanical strength of \u03B2-Ga 2 O 3 with Al alloying"
     year: '2024'
   B3nJAn4AAAAJ:4JMBOYKVnBMC:
@@ -26,31 +26,39 @@ papers:
     title: "Probing the Origin of 2D Covalent Organic Frameworks with High Thermoelectric Performance Down to the \xC5ngstr\xF6m Level"
     year: '2026'
   B3nJAn4AAAAJ:4TOpqqG69KYC:
-    citations: 9
+    citations: 11
     title: 'Kanatzidisite: A Natural Compound with Distinctive van der Waals Heterolayered Architecture'
     year: '2023'
   B3nJAn4AAAAJ:5nxA0vEk-isC:
-    citations: 51
+    citations: 52
     title: "Gate\u2010Defined Quantum Confinement in CVD 2D WS2"
     year: '2022'
   B3nJAn4AAAAJ:7PzlFSSx8tAC:
-    citations: 66
+    citations: 74
     title: "Molecular contacts with an orthogonal \u03C0-skeleton induce amorphization to enhance perovskite solar cell performance"
     year: '2025'
   B3nJAn4AAAAJ:9ZlFYXVOiuMC:
-    citations: 9
+    citations: 10
     title: "Oxygen-close-packed (310)-plane substrates of \u03B2-Ga2O3 grown by the casting method"
     year: '2024'
   B3nJAn4AAAAJ:9yKSN-GCB0IC:
     citations: 4
     title: Ab initio simulation of electronic and mechanical properties of aluminium for fatigue early feature investigation
     year: '2014'
+  B3nJAn4AAAAJ:BqipwSGYUEgC:
+    citations: 0
+    title: "High\u2010Performance MnOOH/\u03B1\u2010MnO2 Composite Cathode With Enhanced Capacity and Cycling Stability for Aqueous Zinc\u2010Ion Batteries"
+    year: '2026'
+  B3nJAn4AAAAJ:GnPB-g6toBAC:
+    citations: 0
+    title: Advances and prospects in thermal transport theory for complex semiconductors
+    year: '2026'
   B3nJAn4AAAAJ:HDshCWvjkbEC:
     citations: 1
     title: Neuroevolution potential for thermal transport in silicon carbide
     year: '2025'
   B3nJAn4AAAAJ:IWHjjKOFINEC:
-    citations: 58
+    citations: 63
     title: "Fully Conjugated Benzobisoxazole\u2010Bridged Covalent Organic Frameworks for Boosting Photocatalytic Hydrogen Evolution"
     year: '2025'
   B3nJAn4AAAAJ:IjCSPb-OGe4C:
@@ -58,7 +66,7 @@ papers:
     title: 'EPIC STAR: a reliable and efficient approach for phonon-and impurity-limited charge transport calculations'
     year: '2020'
   B3nJAn4AAAAJ:JV2RwH3_ST0C:
-    citations: 0
+    citations: 1
     title: Large violation of the Wiedemann-Franz law driven by electron-hole compensation in the topological semimetal CoSi
     year: '2026'
   B3nJAn4AAAAJ:KlAtU1dfN6UC:
@@ -66,7 +74,7 @@ papers:
     title: Phonon-limited carrier mobilities and Hall factors in -SiC from first principles
     year: '2023'
   B3nJAn4AAAAJ:L8Ckcad2t8MC:
-    citations: 39
+    citations: 44
     title: Iterative sublattice amorphization facilitates exceptional processability in inorganic semiconductors
     year: '2025'
   B3nJAn4AAAAJ:LkGwnXOMwfcC:
@@ -78,7 +86,7 @@ papers:
     title: Upwind electromigration of sub-10-nm metallic nano-interconnects
     year: '2026'
   B3nJAn4AAAAJ:M3ejUd6NZC8C:
-    citations: 35
+    citations: 39
     title: Machine learning based feature engineering for thermoelectric materials by design
     year: '2024'
   B3nJAn4AAAAJ:NMxIlDl6LWMC:
@@ -86,7 +94,7 @@ papers:
     title: Solution epitaxy of single-crystal ferroelectric pin structure with ultrahigh photovoltaic response
     year: '2026'
   B3nJAn4AAAAJ:QIV2ME_5wuYC:
-    citations: 8
+    citations: 10
     title: "Highly Coherent Grain Boundaries Induced by Local Pseudomirror Symmetry in \u03B2-Ga2O3"
     year: '2025'
   B3nJAn4AAAAJ:R3hNpaxXUhUC:
@@ -94,7 +102,7 @@ papers:
     title: Effect of surface roughness on the nucleation of diamond on a 4H-SiC substrate
     year: '2025'
   B3nJAn4AAAAJ:RHpTSmoSYBkC:
-    citations: 3
+    citations: 4
     title: Comparison of resistivity distribution in p-type and n-type SiC single crystals grown by the PVT method
     year: '2025'
   B3nJAn4AAAAJ:Se3iqnhoufwC:
@@ -102,11 +110,11 @@ papers:
     title: Electronic dynamics in low-dimensional materials
     year: '2016'
   B3nJAn4AAAAJ:TFP_iSt0sucC:
-    citations: 0
+    citations: 1
     title: "Temperature and Doping Dependence of Carbon Interstitial Diffusion in 4H\u2010SiC from First Principles"
     year: '2025'
   B3nJAn4AAAAJ:TQgYirikUcIC:
-    citations: 1
+    citations: 2
     title: "Mercapto\u2010Functionalized Sacrificial Agents Enable Dual\u2010Electrode Nanoprotection in MnO2||Zn Batteries"
     year: '2025'
   B3nJAn4AAAAJ:Tyk-4Ss8FVUC:
@@ -114,7 +122,7 @@ papers:
     title: "The Role of Electrostatic Interaction between Free Charge Carriers and Counterions in Thermoelectric Power Factor of Conducting Polymers: From Crystalline to Polycrystalline \u2026"
     year: '2020'
   B3nJAn4AAAAJ:ULOm3_A8WrAC:
-    citations: 420
+    citations: 431
     title: "Three-Component Donor\u2212 \u03C0\u2013Acceptor Covalent\u2013Organic Frameworks for Boosting Photocatalytic Hydrogen Evolution"
     year: '2023'
   B3nJAn4AAAAJ:UeHWp8X0CEIC:
@@ -130,15 +138,19 @@ papers:
     title: "Unravelling the Molecular Origin of Organic Semiconductors with High\u2010Performance Thermoelectric Response"
     year: '2021'
   B3nJAn4AAAAJ:Wp0gIr-vW9MC:
-    citations: 69
+    citations: 77
     title: High-entropy hybrid perovskites with disordered organic moieties for perovskite solar cells
     year: '2024'
   B3nJAn4AAAAJ:Y0pCki6q_DkC:
     citations: 8
     title: Orbital-dependent electron-hole interaction in graphene and associated multi-layer structures
     year: '2015'
+  B3nJAn4AAAAJ:YFjsv_pBGBYC:
+    citations: 0
+    title: Polymer-templated mesoscale assembly directs synthesis of centimetre-scale perovskite single crystals
+    year: '2026'
   B3nJAn4AAAAJ:YOwf2qJgpHMC:
-    citations: 17
+    citations: 19
     title: "Atomistic insights into the origin of high\u2010performance thermoelectric response in hybrid perovskites"
     year: '2023'
   B3nJAn4AAAAJ:YsMSGLbcyi4C:
@@ -146,7 +158,7 @@ papers:
     title: Strain Effects on the n-Type Thermoelectric Performance of the Small-Molecule Organic Semiconductor 2-5-Difluoro-7, 7, 8, 8-Tetracyanoquinodimethane
     year: '2020'
   B3nJAn4AAAAJ:Zph67rFs4hoC:
-    citations: 11
+    citations: 13
     title: Effect of hexagonality on the pressure-dependent lattice dynamics of 4H-SiC
     year: '2022'
   B3nJAn4AAAAJ:_Qo2XoVZTnwC:
@@ -174,7 +186,7 @@ papers:
     title: "Unprecedented Enhancement of Thermoelectric Power Factor Induced by Pressure in Small\u2010Molecule Organic Semiconductors"
     year: '2019'
   B3nJAn4AAAAJ:dhFuZR0502QC:
-    citations: 2
+    citations: 3
     title: 'Carrier lifetime killer in 4H-SiC: carrier capture path via carbon vacancies'
     year: '2025'
   B3nJAn4AAAAJ:e5wmG9Sq2KIC:
@@ -198,7 +210,7 @@ papers:
     title: Zigzag Perovskitoids with Superior Stability and Thermal Conductivity
     year: '2026'
   B3nJAn4AAAAJ:hqOjcs7Dif8C:
-    citations: 26
+    citations: 27
     title: A molecular roadmap towards organic donor-acceptor complexes with high-performance thermoelectric response
     year: '2021'
   B3nJAn4AAAAJ:iH-uZ7U-co4C:
@@ -210,11 +222,11 @@ papers:
     title: Revealing phonon signature of dislocations in silicon carbide using machine-learning interatomic potential
     year: '2025'
   B3nJAn4AAAAJ:j3f4tGmQtD8C:
-    citations: 3
+    citations: 4
     title: "Seed\u2010Promoted Patch\u2010Like Deposition for Dynamic Protection and Ion Transport Synergy to Achieve Stable Zinc\u2010Powder Anodes"
     year: '2025'
   B3nJAn4AAAAJ:kNdYIx-mwKoC:
-    citations: 254
+    citations: 261
     title: "Photocatalytic Hydrogen Production on a sp2\u2010Carbon\u2010Linked Covalent Organic Framework"
     year: '2022'
   B3nJAn4AAAAJ:k_IJM867U9cC:
@@ -226,7 +238,7 @@ papers:
     title: Database and deep-learning scalability of anharmonic phonon properties by automated brute-force first-principles calculations
     year: '2026'
   B3nJAn4AAAAJ:mVmsd5A6BfQC:
-    citations: 45
+    citations: 49
     title: "S\u2010Block Metal Mg\u2010Mediated Co\u2500 N\u2500 C as Efficient Oxygen Electrocatalyst for Durable and Temperature\u2010Adapted Zn\u2013Air Batteries"
     year: '2024'
   B3nJAn4AAAAJ:maZDTaKrznsC:
@@ -234,7 +246,7 @@ papers:
     title: Dislocation-limited Thermal Transport in Silicon Carbide Dislocations from Machine-learning Molecular Dynamics
     year: '2026'
   B3nJAn4AAAAJ:qUcmZB5y_30C:
-    citations: 2
+    citations: 3
     title: Phonon folding and transport in SiC polytypes from first principles
     year: '2025'
   B3nJAn4AAAAJ:qjMakFHDy7sC:
@@ -262,6 +274,6 @@ papers:
     title: Electronic transport descriptors for the rapid screening of thermoelectric materials
     year: '2021'
   B3nJAn4AAAAJ:zYLM7Y9cAGgC:
-    citations: 37
+    citations: 40
     title: "2D Single\u2010Layer \u03C0\u2010Conjugated Nickel Bis (dithiolene) Complex: A Good\u2010Electron\u2010Poor\u2010Phonon Thermoelectric Material"
     year: '2019'
