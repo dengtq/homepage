@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-22'
 papers:
   B3nJAn4AAAAJ:-f6ydRqryjwC:
-    citations: 18
+    citations: 19
     title: "Restricting Two\u2010Electron Oxygen Reduction via Secondary Coordinated Sulfur Enabling Ultralong\u2010Lifespan Zn\u2010Air Batteries"
     year: '2025'
   B3nJAn4AAAAJ:0EnyYjriUFMC:
@@ -34,7 +34,7 @@ papers:
     title: "Gate\u2010Defined Quantum Confinement in CVD 2D WS2"
     year: '2022'
   B3nJAn4AAAAJ:7PzlFSSx8tAC:
-    citations: 74
+    citations: 76
     title: "Molecular contacts with an orthogonal \u03C0-skeleton induce amorphization to enhance perovskite solar cell performance"
     year: '2025'
   B3nJAn4AAAAJ:9ZlFYXVOiuMC:
@@ -54,11 +54,11 @@ papers:
     title: Advances and prospects in thermal transport theory for complex semiconductors
     year: '2026'
   B3nJAn4AAAAJ:HDshCWvjkbEC:
-    citations: 1
+    citations: 2
     title: Neuroevolution potential for thermal transport in silicon carbide
     year: '2025'
   B3nJAn4AAAAJ:IWHjjKOFINEC:
-    citations: 63
+    citations: 64
     title: "Fully Conjugated Benzobisoxazole\u2010Bridged Covalent Organic Frameworks for Boosting Photocatalytic Hydrogen Evolution"
     year: '2025'
   B3nJAn4AAAAJ:IjCSPb-OGe4C:
@@ -93,6 +93,10 @@ papers:
     citations: 0
     title: Solution epitaxy of single-crystal ferroelectric pin structure with ultrahigh photovoltaic response
     year: '2026'
+  B3nJAn4AAAAJ:O3NaXMp0MMsC:
+    citations: 0
+    title: "Electron Transport and Dislocations in Heavily Doped and Co\u2010Doped n\u2010Type 4H\u2010SiC"
+    year: '2026'
   B3nJAn4AAAAJ:QIV2ME_5wuYC:
     citations: 10
     title: "Highly Coherent Grain Boundaries Induced by Local Pseudomirror Symmetry in \u03B2-Ga2O3"
@@ -122,7 +126,7 @@ papers:
     title: "The Role of Electrostatic Interaction between Free Charge Carriers and Counterions in Thermoelectric Power Factor of Conducting Polymers: From Crystalline to Polycrystalline \u2026"
     year: '2020'
   B3nJAn4AAAAJ:ULOm3_A8WrAC:
-    citations: 431
+    citations: 434
     title: "Three-Component Donor\u2212 \u03C0\u2013Acceptor Covalent\u2013Organic Frameworks for Boosting Photocatalytic Hydrogen Evolution"
     year: '2023'
   B3nJAn4AAAAJ:UeHWp8X0CEIC:
@@ -138,7 +142,7 @@ papers:
     title: "Unravelling the Molecular Origin of Organic Semiconductors with High\u2010Performance Thermoelectric Response"
     year: '2021'
   B3nJAn4AAAAJ:Wp0gIr-vW9MC:
-    citations: 77
+    citations: 78
     title: High-entropy hybrid perovskites with disordered organic moieties for perovskite solar cells
     year: '2024'
   B3nJAn4AAAAJ:Y0pCki6q_DkC:
@@ -226,7 +230,7 @@ papers:
     title: "Seed\u2010Promoted Patch\u2010Like Deposition for Dynamic Protection and Ion Transport Synergy to Achieve Stable Zinc\u2010Powder Anodes"
     year: '2025'
   B3nJAn4AAAAJ:kNdYIx-mwKoC:
-    citations: 261
+    citations: 260
     title: "Photocatalytic Hydrogen Production on a sp2\u2010Carbon\u2010Linked Covalent Organic Framework"
     year: '2022'
   B3nJAn4AAAAJ:k_IJM867U9cC:
@@ -246,7 +250,7 @@ papers:
     title: Dislocation-limited Thermal Transport in Silicon Carbide Dislocations from Machine-learning Molecular Dynamics
     year: '2026'
   B3nJAn4AAAAJ:qUcmZB5y_30C:
-    citations: 3
+    citations: 4
     title: Phonon folding and transport in SiC polytypes from first principles
     year: '2025'
   B3nJAn4AAAAJ:qjMakFHDy7sC:
